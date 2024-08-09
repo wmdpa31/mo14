@@ -45,22 +45,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "최승민 ♥ 박영주의 모바일 청첩장",
+        title: "이재현 ♥ 류지혜의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
         imageUrl: "https://i.imgur.com/Id0xiK7.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo12.luvle.co.kr",
-          webUrl: "https://mo12.luvle.co.kr",
+          mobileWebUrl: "https://mo14.luvle.co.kr",
+          webUrl: "https://mo14.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo12.luvle.co.kr",
-            webUrl: "https://mo12.luvle.co.kr",
+            mobileWebUrl: "https://mo14.luvle.co.kr",
+            webUrl: "https://mo14.luvle.co.kr",
           },
         },
       ],
